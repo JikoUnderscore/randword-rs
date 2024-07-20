@@ -1,0 +1,4 @@
+/target
+program
+.vscode
+Cargo.lock
